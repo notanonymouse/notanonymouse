@@ -1,7 +1,7 @@
 # Hi, I'm notanoymouse 👋
 
 ## 🕵️‍♂️ Aspiring Digital Forensics & CTI Professional
-I am a final-year Business student transitioning into Cybersecurity. My goal is to combine technical investigative skills with strategic intelligence to protect digital assets.
+I am a final-year Business student transitioning into Cybersecurity. My goal is to combine technical investigative skills with strategic intelligence to protect digital assets. I am based in Brunei.
 
 ### 🔭 Current Focus
 - 🎓 Completing my Business degree (Final Term).
