@@ -18,7 +18,5 @@ I am a final-year Business student transitioning into Cybersecurity. My goal is 
 - **Intelligence:** VirusTotal, AlienVault OTX, Shodan
 - **Documentation:** Markdown, GitHub, Professional Technical Reporting
 
-### Remarks
-My background in business allows me to translate complex cyber threats into "Business Risk" for stakeholders; a key skill for high-level CTI reporting.
 
 ---
